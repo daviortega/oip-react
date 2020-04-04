@@ -46,7 +46,7 @@
     "js-pascalcase": "^1.2.1",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
-    "oip-protobufjs": "^1.6.11",
+    "oip-protobufjs": "git+https://github.com/daviortega/oip-protobufjs.git#fix-update-to-node-12",
     "prop-types": "^15.7.2",
     "protobufjs": "~6.8.9",
     "react": "^16.13.1",
